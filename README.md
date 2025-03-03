@@ -72,7 +72,6 @@ I have also not made my work available to anyone else
         <img src="tingportrait.png" alt="Ting He Li Portrait" width="100" height="100">
     </header>
     
-    <br><br>
     <h2>Education</h2>
     <p>
         High School: Erindale Secondary School<br>
